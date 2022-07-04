@@ -1,0 +1,15 @@
+body {
+  position: relative;
+}
+
+.navbar-brand img {
+  width: 40px;
+}
+
+#section0,
+#section1,
+#section2,
+#section3 {
+  padding: 100px 20px;
+  --bs-bg-opacity: 0.5;
+}
